@@ -3,7 +3,6 @@ export const PlantList = [
 		name: 'monstera',
 		category: 'classique',
 		id: '1ed',
-		isBestSale: true,
 		light: 2,
 		water: 3
 	},
@@ -46,7 +45,6 @@ export const PlantList = [
 		name: 'basilique',
 		category: 'extérieur',
 		id: '7ie',
-		isBestSale: true,
 		light: 2,
 		water: 3
 	},
